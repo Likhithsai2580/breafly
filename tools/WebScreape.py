@@ -40,4 +40,5 @@ def WebsiteInfo(url:str):
         print(Fore.RED +"Website Failed")
     
 if __name__ == "__main__":
-    print(WebsiteInfo("https://www.smh.com.au/business/companies/why-a-billionaire-s-son-could-change-the-fortunes-of-network-ten-20240410-p5fiss.html"))
+    print(WebsiteInfo("https://www.msn.com/en-us/news/us/5-things-to-know-about-the-florida-python-challenge-map-for-hunt-bounty-how-to-kill/ar-BB1pT6xW#image=1"))
+    
